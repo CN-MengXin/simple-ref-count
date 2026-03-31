@@ -6,4 +6,6 @@ include=[
     "src/lib.rs",
     "Cargo.toml"
 ]
+description = "A simple reference counting implementation"
+license = "MIT"     
 [dependencies]
