@@ -2,5 +2,8 @@
 name = "simple_ref_count"
 version = "0.1.0"
 edition = "2024"
-
+include=[
+    "src/lib.rs",
+    "Cargo.toml"
+]
 [dependencies]
